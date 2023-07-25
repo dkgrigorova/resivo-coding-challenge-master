@@ -11,6 +11,8 @@ const doors: Door[] = [
     buildingName: 'Bahnhofstrasse 10A',
     connectionType: 'wired',
     connectionStatus: 'offline',
+    lastConnectionStatusUpdate: '2023-02-22T03:00:11.853Z',
+    apartmentName: 'Apartment 1.1',
   },
 ];
 
